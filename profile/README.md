@@ -1,4 +1,4 @@
-cynx-io 🚀
+# CYNX-IO
 
 <img width="1874" height="1011" alt="image" src="https://github.com/user-attachments/assets/8b266869-b459-4da5-b565-d9edede4d7c2" />
 
