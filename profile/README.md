@@ -1,6 +1,7 @@
 # CYNX-IO
 
-<img width="1874" height="1011" alt="image" src="https://github.com/user-attachments/assets/8b266869-b459-4da5-b565-d9edede4d7c2" />
+<img width="3750" height="2007" alt="image" src="https://github.com/user-attachments/assets/87ab6024-e62f-4d64-9abe-4826d587d4dd" />
+
 
 Building scalable microservices with modern cloud-native architecture
 
